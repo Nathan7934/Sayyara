@@ -1,9 +1,13 @@
 This is a fork of the original repository.
 ### Team members:
 Nathan Raymant (Frontend)
+
 Hamoon Zamiri (Frontend)
+
 Ahsan Saeed (Frontend)
+
 Uthman Mohamad (Backend)
+
 Haolin Fan (Backend)
 
 # Sayyara
