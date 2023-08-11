@@ -1,4 +1,4 @@
-This is a fork of the original repository.
+This is a fork of the original repository. To see the Pull Request history, go [here](https://github.com/csc301-fall-2022/team-project-16-sayyara-m/pulls?q=is%3Apr+is%3Aclosed).
 ### Team members:
 Nathan Raymant (Frontend)
 
