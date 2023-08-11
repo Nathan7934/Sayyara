@@ -1,3 +1,11 @@
+This is a fork of the original repository.
+### Team members:
+Nathan Raymant (Frontend)
+Hamoon Zamiri (Frontend)
+Ahsan Saeed (Frontend)
+Uthman Mohamad (Backend)
+Haolin Fan (Backend)
+
 # Sayyara
 
 Sayyara is a web app that connects Vehicle Mechanics to Vehicle Owners.
